@@ -2,6 +2,6 @@
 
 # Integrantes
 
-Missael Del Jesus Ching Mendez
-Jose Fernando Cancino Chim
-Harold Salatiel Garcia Baquedano
+* Missael Del Jesus Ching Mendez
+* Jose Fernando Cancino Chim
+* Harold Salatiel Garcia Baquedano
